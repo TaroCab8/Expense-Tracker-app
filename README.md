@@ -1,4 +1,4 @@
-- FullStack social media app using the MERN stack, developed for learning purposes. 
+- FullStack Expenses tracker app using the MERN stack, developed for learning purposes. 
 
 - Structure based in Shama Hoque's book, "Full-Stack React Projects".
 
